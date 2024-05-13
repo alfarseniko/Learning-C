@@ -20,5 +20,3 @@ int main()
 
     return 0;
 }
-
-// just in case i dont miss a commit
